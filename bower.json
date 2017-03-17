@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "description": "",
+  "main": "dev-server.js",
+  "authors": [
+    "sailajavelampati <sailajasmart@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/sailajasmart/testRD-8.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.0",
+    "backbone": "^1.3.3"
+  }
+}

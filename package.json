@@ -1,7 +1,6 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "",
   "main": "dev-server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,9 +8,26 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
     "express": "^4.15.2",
     "forever-monitor": "^1.7.1",
     "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.1.0",
     "request": "^2.81.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sailajasmart/testRD-8.0.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sailajasmart/testRD-8.0/issues"
+  },
+  "homepage": "https://github.com/sailajasmart/testRD-8.0#readme",
+  "description": ""
 }
